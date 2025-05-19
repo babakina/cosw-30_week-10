@@ -12,12 +12,12 @@
 <header>
 	<h1>Week 10 Homework</h1>
 	<nav>
-			<a href="https://eridanus.webdevlearning.org/COSW-30/Week-10/list_users.php">List Users</a>
-			<a href="https://eridanus.webdevlearning.org/COSW-30/Week-10/list_products.php">List Products</a>
-			<a href="https://eridanus.webdevlearning.org/COSW-30/Week-10/list_orders.php">List Orders</a>
-			<a href="https://eridanus.webdevlearning.org/COSW-30/Week-10/add_user.php">Add User</a>
-			<a href="https://eridanus.webdevlearning.org/COSW-30/Week-10/add_product.php">Add Product</a>
-			<a href="https://eridanus.webdevlearning.org/COSW-30/Week-10/add_order.php">Add Order</a>
+			<a href="list_users.php">List Users</a>
+			<a href="list_products.php">List Products</a>
+			<a href="list_orders.php">List Orders</a>
+			<a href="add_user.php">Add User</a>
+			<a href="add_product.php">Add Product</a>
+			<a href="add_order.php">Add Order</a>
 	</nav>
 </header>
 	<main>
